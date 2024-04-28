@@ -1,0 +1,987 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+
+}
+body{
+    background-color: black;
+    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    i{
+        color: white;
+    }
+}
+.star1 i{
+
+    position: relative;
+    top: 10%;
+    left: 10%;
+    font-size: 10px;
+   animation: satr1 1s linear infinite;
+}
+@keyframes satr1{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+.star2 i{
+
+    position: relative;
+    top: 10%;
+    left: 80%;
+    font-size: 6px;
+   animation: satr2 1s linear infinite;
+}
+@keyframes satr2{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(2.5);
+    }
+}
+
+
+
+.star3 i{
+
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-size: 10px;
+   animation: satr3 2s linear infinite;
+}
+@keyframes satr3{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+.star4 i{
+
+    position: relative;
+    top: 40%;
+    left: 90%;
+    font-size: 10px;
+   animation: satr4 1s linear infinite;
+}
+@keyframes satr4{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+.im-1{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    right: -203px;
+    border-radius: 50%;
+}
+
+.star5 i{
+
+    position: relative;
+    top: -10%;
+    left: 92%;
+    font-size: 10px;
+   animation: satr5 1s linear infinite;
+}
+@keyframes satr5{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+.star6 i{
+
+    position: relative;
+    top: 80%;
+    left: 10%;
+    font-size: 10px;
+   animation: satr6 1s linear infinite;
+}
+@keyframes satr6{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+
+.star7 i{
+
+    position: relative;
+    top: 90%;
+    left: 10%;
+    font-size: 10px;
+   animation: satr7 1s linear infinite;
+}
+@keyframes satr1{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+.star8 i{
+
+    position: relative;
+    top: -20%;
+    left: 20%;
+    font-size: 10px;
+   animation: satr8 1s linear infinite;
+}
+@keyframes satr8{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+.star9 i{
+
+    position: relative;
+    top: 8%;
+    left: 28%;
+    font-size: 10px;
+   animation: satr9 1s linear infinite;
+}
+@keyframes satr9{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+
+.star124 i{
+
+    position: relative;
+    top: 9%;
+    left: 90%;
+    font-size: 10px;
+   animation: satr124 1s linear infinite;
+}
+@keyframes satr124{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+.star122 i{
+
+    position: relative;
+    top: 3%;
+    left: 86%;
+    font-size: 10px;
+   animation: satr122 1s linear infinite;
+}
+@keyframes satr122{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+.star193 i{
+
+    position: relative;
+    top: 21%;
+    left: 78%;
+    font-size: 10px;
+   animation: satr193 1s linear infinite;
+}
+@keyframes satr193{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+
+.star16 i{
+
+    position: relative;
+    bottom: 10%;
+    right: 10%;
+    font-size: 10px;
+   animation: satr16 1s linear infinite;
+}
+@keyframes satr16{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+.star17 i{
+
+    position: relative;
+    bottom: 16%;
+    left: 80%;
+    font-size: 10px;
+   animation: satr17 1s linear infinite;
+}
+@keyframes satr17{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+.star15 i{
+
+    position: relative;
+    bottom: 30%;
+    left: 14%;
+    font-size: 10px;
+   animation: satr15 1s linear infinite;
+}
+@keyframes satr15{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+
+
+
+.star18 i{
+
+    position: relative;
+   bottom: 30%;
+    left: 24%;
+    font-size: 5px;
+   animation: satr18 1s linear infinite;
+}
+@keyframes satr18{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(2.5);
+    }
+}
+
+
+
+
+.star13 i{
+
+    position: relative;
+    bottom: 10%;
+    right: 60%;
+    font-size: 4px;
+   animation: satr11 4s linear infinite;
+}
+@keyframes satr13{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(2.5);
+    }
+}
+
+
+.star183 i{
+
+    position: relative;
+    bottom: 18%;
+    left:  7%;
+    font-size: 2px;
+   animation: satr183 1s linear infinite;
+}
+@keyframes satr183{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+.star173 i{
+
+    position: relative;
+    bottom: 13%;
+    left:  5%;
+    font-size: 2px;
+   animation: satr173 1s linear infinite;
+}
+@keyframes satr173{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+.star163 i{
+
+    position: relative;
+    bottom: 16%;
+    left:  17%;
+    font-size: 2px;
+   animation: satr163 1s linear infinite;
+}
+@keyframes satr163{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+
+
+.star153 i{
+
+    position: relative;
+    bottom: 34%;
+    left:  23%;
+    font-size: 2px;
+   animation: satr153 1s linear infinite;
+}
+@keyframes satr153{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+.star124 i{
+
+    position: relative;
+    bottom: 28%;
+    left:  4%;
+    font-size: 2px;
+   animation: satr124 1s linear infinite;
+}
+@keyframes satr124{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+.star17 i{
+
+    position: relative;
+    bottom: 18%;
+    left:  97%;
+    font-size: 2px;
+   animation: satr17 1s linear infinite;
+}
+@keyframes satr17{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+.star1 i{
+
+    position: relative;
+    bottom: 18%;
+    left:  7%;
+    font-size: 2px;
+   animation: satr183 1s linear infinite;
+}
+@keyframes satr183{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+
+.star99 i{
+
+    position: relative;
+    bottom: 38%;
+    left:  77%;
+    font-size: 2px;
+   animation: satr99 1s linear infinite;
+}
+@keyframes satr99{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+.star123 i{
+
+    position: relative;
+    bottom: 48%;
+    left:  67%;
+    font-size: 2px;
+   animation: satr123 1s linear infinite;
+}
+@keyframes satr123{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+
+
+
+.star88 i{
+
+    position: relative;
+    bottom: 48%;
+    left:  57%;
+    font-size: 2px;
+   animation: satr88 1s linear infinite;
+}
+@keyframes satr88{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+
+
+
+.star14i{
+
+    position: relative;
+    bottom: 68%;
+    left:  47%;
+    font-size: 2px;
+   animation: satr14 1s linear infinite;
+}
+@keyframes satr14{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+
+
+.star12 i{
+
+    position: relative;
+    bottom: 38%;
+    left:  77%;
+    font-size: 2px;
+   animation: satr12 1s linear infinite;
+}
+@keyframes satr12{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+
+
+
+.star14 i{
+
+    position: relative;
+    bottom: 88%;
+    left:  2%;
+    font-size: 2px;
+   animation: satr14 1s linear infinite;
+}
+@keyframes satr14{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(3.5);
+    }
+}
+
+.kosmos{
+    width: 200px;
+    position: relative;
+    left: 82%;
+    bottom: 7%;
+    animation: kosmos 5s linear infinite;
+    animation-direction:alternate;
+  
+}
+
+@keyframes kosmos{
+    from{
+        top: 0%;
+    }
+    to{
+        top: 65%;
+    }
+}
+
+.kosmos {
+    img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+.im-2{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    right: 20px;
+    top: 20px;
+}
+
+
+
+.uzay{
+    position: absolute;
+    left: -90px;
+    bottom: 5%;
+    animation: uzay 5s linear infinite;
+    animation-direction: alternate-reverse;
+}
+
+@keyframes uzay{
+    from{
+        top: 0%;
+    }
+    to{
+        top: 75%;
+    }
+}
+
+.SATRSS{
+    width: 100%;
+    height: 100%;
+}
+
+
+.sun{
+    width: 120px;
+    height: 120px;
+    background-image: url(images/merlin_140815551_d7988295-210f-4d0e-8c62-b6117ecb5fd3-articleLarge.webp);
+border-radius: 50%;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.mercury{
+    height: 30px;
+    width: 30px;
+    background-image: url(images/mercury-planet.jpg);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 42%;
+    left: 43%;
+   
+    animation: mer1 4s linear infinite;
+   
+}
+@keyframes mer1{
+    from{
+        transform: rotate(0deg) translateX(70px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(70px) rotate(360deg);
+    }
+}
+p{
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    left: 62px;
+    top: -13px;
+    opacity: 1;
+}
+.mercury-orbit,.mars-orbit,.neptun-orbit,.uranus-orbit,.venus-orbit,.jupiter-orbit,.earth-orbit,.saturun-orbit{
+
+border-radius: 50%;
+border: 2px dotted #ddd9;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.mercury-orbit{
+    width: 150px;
+    height: 150px;
+}
+.venus{
+    height: 40px;
+    width: 40px;
+    background-image: url(images/venus.webp);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 39%;
+    left: 43%;
+   
+    animation: ven1 8s linear infinite;
+   
+}
+.venus-orbit{
+    width: 200px;
+    height: 200px;
+    p{
+      
+        color: white;
+        font-size: 12px;
+        position: absolute;
+        left: 177px;
+        top: 24px;
+        opacity: 1;  
+        }
+}
+@keyframes ven1{
+    from{
+        transform: rotate(0deg) translateX(100px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(100px) rotate(360deg);
+    }
+}
+
+.earth{
+    height: 60px;
+    width: 60px;
+    background-image: url(images/Earth-planet.jpg);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 43%;
+    left: 44%;
+   transform: translate(-50%,-50%);
+    animation: eart 10s linear infinite;
+}
+@keyframes eart{
+    from{
+        transform: rotate(0deg) translateX(150px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(150px) rotate(360deg);
+    }
+}
+.earth-orbit{
+    width: 300px;
+    height: 300px;
+    p{
+      
+        color: white;
+        font-size: 12px;
+        position: absolute;
+        left: 177px;
+        top: -15px;
+        opacity: 1;  
+        }
+
+}
+.earth-border{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    border: 1px dotted #fff;
+    position: relative;
+    top: -8px;
+    left: -8px;
+}
+.earth-inner{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+    border-radius: 50%;
+    left: 45%;
+    top: 45%;
+    position: absolute;
+
+    transform: translate(-50%,-50%);
+    animation: border 3s linear infinite;
+}
+@keyframes border{
+    from{
+        transform: rotate(0deg) translateX(33px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(33px) rotate(360deg);
+    }
+}
+.mars{
+    height: 30px;
+    width: 30px;
+    background-image: url(images/mars.png);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 46.5%;
+    left: 46.5%;
+   
+    animation: mar1 20s linear infinite;
+}
+.mars-orbit{
+    width: 370px;
+    height: 370px;
+    p{
+      
+        color: white;
+        font-size: 12px;
+        position: absolute;
+        left: 42px;
+        top: 24px;
+        opacity: 1;  
+        }
+}
+@keyframes mar1{
+    from{
+        transform: rotate(0deg) translateX(185px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(185px) rotate(360deg);
+    }
+}
+
+
+.jupiter{
+    height: 40px;
+    width: 40px;
+    background-image: url(images/juputer.png);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+   
+    animation: jup1 25s linear infinite;
+}
+.jupiter-orbit{
+    width: 430px;
+    height: 430px;
+    p{
+      
+        color: white;
+        font-size: 12px;
+        position: absolute;
+        left: 6px;
+        top: 75px;
+        opacity: 1;  
+        }
+}
+@keyframes jup1{
+    from{
+        transform: rotate(0deg) translateX(217px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(217px) rotate(360deg);
+    }
+}
+.saturun{
+    height: 50px;
+    width: 50px;
+    background-image: url(images/planet-saturn-rotation-alpha-channel-footage-000709259_iconl.webp);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+   
+    animation: sat1 30s linear infinite;
+}
+.saturun-orbit{
+    width: 500px;
+    height: 500px;
+    p{
+      
+        color: white;
+        font-size: 12px;
+        position: absolute;
+        left: 420px;
+        top: 55px;
+        opacity: 1;  
+        }
+}
+@keyframes sat1{
+    from{
+        transform: rotate(0deg) translateX(250px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(250px) rotate(360deg);
+    }
+}
+
+
+.uranus{
+    height: 30px;
+    width: 30px;
+    background-image: url(images/uran.webp);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 47%;
+    left: 48%;
+   
+    animation: uran1 50s linear infinite;
+}
+.uranus-orbit{
+    width: 560px;
+    height: 560px;
+    p{
+      
+        color: white;
+        font-size: 12px;
+        position: absolute;
+        left: 555px;
+        top: 225px;
+        opacity: 1;  
+        }
+}
+@keyframes uran1{
+    from{
+        transform: rotate(0deg) translateX(280px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(280px) rotate(360deg);
+    }
+}
+
+.neptun{
+    height: 30px;
+    width: 30px;
+    background-image: url(images/neptun-m.png);
+    border-radius: 50%;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 48%;
+    left: 48%;
+   
+    animation: nep1 100s linear infinite;
+}
+.neptun-orbit{
+    width: 620px;
+    height: 620px;
+    p{
+      
+        color: white;
+        font-size: 12px;
+        position: absolute;
+        left: 530px;
+        top: 75px;
+        opacity: 1;  
+        }
+}
+@keyframes nep1{
+    from{
+        transform: rotate(0deg) translateX(310px) rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(310px) rotate(360deg);
+    }
+}
